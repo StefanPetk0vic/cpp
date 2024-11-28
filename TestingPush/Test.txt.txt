@@ -1,3 +1,0 @@
-malo push 
-malo pull
-malo commit
